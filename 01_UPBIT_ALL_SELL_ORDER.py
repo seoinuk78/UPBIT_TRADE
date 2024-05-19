@@ -26,7 +26,7 @@ upbit = pyupbit.Upbit(access_key, secret_key)
 
 # 매도 이익 임계값 및 손절 임계값 설정 (100% = 1.00, 10% = 0.10, 1% = 0.01, 0.1% = 0.001,0.01% = 0.0001)
 sell_profit_threshold = 0.0025  # 0.25%
-stop_loss_threshold = -0.0025  # -0.25%
+stop_loss_threshold = -0.0085  # -0.85%
 
 def log_previous_execution():
     """ 로그 기록 및 초기 실행 체크 """
