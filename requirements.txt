@@ -1,0 +1,6 @@
+python-dotenv
+pyupbit
+pyjwt
+pandas
+pandas_ta
+schedule
