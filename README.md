@@ -1,0 +1,2 @@
+# UPBIT_TRADE
+서버설정
